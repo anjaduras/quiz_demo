@@ -16,17 +16,3 @@ This is a simple quiz application built using React. It presents a series of que
 - JSX
 - JavaScript
 
-## Getting Started
-
-Follow the instructions below to get a local copy of the project up and running on your machine for development and testing purposes.
-
-### Prerequisites
-
-To run this project, you need to have Node.js installed on your machine.
-
-### Installation
-
-1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
