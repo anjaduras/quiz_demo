@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+main {
+  margin: 1rem;
+}
+
+.answers {
+  background-color: blueviolet;
+  padding: .2rem;
+  color: white;
+  border-radius: 1rem;
+  margin: 1rem;
+  /* max-width: 15rem; */
+}
+
+.answers:hover{
+  background-color: rgb(218, 32, 165);
+}
+
+button {
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  border: none;
+}
