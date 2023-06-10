@@ -16,3 +16,4 @@ This is a simple quiz application built using React. It presents a series of que
 - JSX
 - JavaScript
 
+You can customize the quiz by modifying the tests array in the App.js file. Each object in the array represents a question and its corresponding answers. You can change the questions, answers, and correct answers to suit your needs.
